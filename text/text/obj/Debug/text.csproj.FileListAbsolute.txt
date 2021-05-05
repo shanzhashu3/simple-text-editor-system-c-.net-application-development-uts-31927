@@ -1,0 +1,12 @@
+C:\Users\shan\Desktop\text\text\bin\Debug\text.exe.config
+C:\Users\shan\Desktop\text\text\bin\Debug\text.exe
+C:\Users\shan\Desktop\text\text\bin\Debug\text.pdb
+C:\Users\shan\Desktop\text\text\obj\Debug\text.csprojAssemblyReference.cache
+C:\Users\shan\Desktop\text\text\obj\Debug\text.Form1.resources
+C:\Users\shan\Desktop\text\text\obj\Debug\text.Properties.Resources.resources
+C:\Users\shan\Desktop\text\text\obj\Debug\text.csproj.GenerateResource.cache
+C:\Users\shan\Desktop\text\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+C:\Users\shan\Desktop\text\text\obj\Debug\text.exe
+C:\Users\shan\Desktop\text\text\obj\Debug\text.pdb
+C:\Users\shan\Desktop\text\text\obj\Debug\text.Form2.resources
+C:\Users\shan\Desktop\text\text\obj\Debug\text.Form3.resources
